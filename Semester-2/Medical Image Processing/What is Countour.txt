@@ -1,0 +1,12 @@
+1. https://www.analyticsvidhya.com/blog/2021/08/edge-contour-detection-an-application-of-computer-vision/
+2. https://medium.com/@deepakkumar1984/contour-detection-in-an-image-c-c65ed2b47c25
+3. https://medium.com/@tejas9723/contour-detection-edge-detection-with-opencv-96a74097e1f6
+4. https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/
+5. https://www.geeksforgeeks.org/contour-detection-with-custom-seeds-using-python-opencv/
+
+Contours detection is a process can be explained simply as a curve joining all the continuous points (along with the boundary), 
+having same colour or intensity. The contours are a useful tool for shape analysis and object detection and recognition. 
+So how is the contour is different than finding an Edge? An edge is a point in an image where 
+there is a sharp change in the pixel colour value which doesn’t make it continuous in nature and sometimes makes 
+it hard to determine the shape of the object. 
+Contours can do a bit more than “just” detect edges. The algorithm does indeed find edges of image
