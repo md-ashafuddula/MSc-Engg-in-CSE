@@ -58,6 +58,8 @@ project and Presentation.
 
 **Thesis:** 18 credit
 
+Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH A DEEP NEURAL NETWORK***
+
 # Publications:
 
 1.  (2022), <ins>*Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
