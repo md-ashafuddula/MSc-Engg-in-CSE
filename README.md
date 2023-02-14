@@ -59,6 +59,10 @@ project and Presentation.
 **Thesis:** 18 credit
 
 Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH A DEEP NEURAL NETWORK***
+**Thesis book (pdf) modification:**
+
+1.  https://pdfresizer.com/crop
+2.  https://smallpdf.com/
 
 # Publications:
 
