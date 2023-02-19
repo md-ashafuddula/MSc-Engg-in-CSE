@@ -65,6 +65,12 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 1.  https://pdfresizer.com/crop
 2.  https://smallpdf.com/
 
+**Image enhancer**
+
+1.  https://picwish.com/
+2.  https://www.media.io/
+3.  https://pinetools.com/sharpen-image
+
 # Publications:
 
 1.  (2022), <ins>*Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
