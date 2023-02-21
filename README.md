@@ -1,7 +1,7 @@
 # MSc (resources)
 
 My MSc duration was **(Jan, 2020 to Jan, 2023) exactly 3 years**. By the grace of almighty Allah I have completed my course work and 1 thesis publication.
-During my MSc I have taken 7 course though could not participate in the final exam of **Deep Learning for Natural Language Processing** Course I have completed all it's assignment,
+During my MSc I have taken 7 course though could not participate in the final exam of **Deep Learning for Natural Language Processing** Course. However, I have completed all it's assignment,
 project and Presentation.
 
 # MSc course list
