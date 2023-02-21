@@ -71,6 +71,18 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 2.  https://www.media.io/
 3.  https://pinetools.com/sharpen-image
 
+**Draw figs**
+
+1.  https://app.diagrams.net/
+
+**Tpis and Tricks**
+
+1.  Use ``pdf version`` of every image to get the best quality
+2.  Use Latex for easy and better organization
+3.  Import ``pdf`` figs
+4.  Use python ``matplot`` lib for ``pdf`` format image extraction
+5.  Notice that no overlapping happens in ``curve and legend``
+
 # Publications:
 
 1.  (2022), <ins>*Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
