@@ -78,7 +78,7 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 **Tpis and Tricks**
 
 1.  Use ``pdf version`` of every image to get the best quality
-2.  Use Latex for easy and better organization
+2.  Use ``Latex`` for easy and better organization
 3.  Import ``pdf`` figs
 4.  Use python ``matplot`` lib for ``pdf`` format image extraction
 5.  Notice that no overlapping happens in ``curve and legend``
