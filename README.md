@@ -21,7 +21,7 @@ project and Presentation.
 **3.  Deep Learning for Natural Language Processing**
 
 **Projects:**
-1.  Natural Language processing usind Deep Learning
+1.  Natural Language processing usind Deep Learning (Sentiment Analysis)
 2.  Presentation 
 
 ## Semester-2
