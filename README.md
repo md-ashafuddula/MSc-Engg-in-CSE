@@ -86,6 +86,7 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 3.  Import ``pdf`` figs
 4.  Use python ``matplot`` lib for ``pdf`` format image extraction
 5.  Notice that no overlapping happens in ``curve and legend``
+6.  Save the best ``ML models`` for future use, otherwise you will regret like me 🙄
 
 # Publications:
 
