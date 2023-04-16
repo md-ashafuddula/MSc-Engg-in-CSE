@@ -75,6 +75,7 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 **Image/ photo Edit**
 
 1.  https://www.cutout.pro/
+2.  https://imageresizer.com/resize/
 
 **Draw figs**
 
