@@ -95,8 +95,10 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 1.  (2022), <ins>*Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 N.B. The paper has been accepted for publication in Computer Science journal: http://journals.agh.edu.pl/csci
 
-2.  (2022), <ins>*Under submission*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
+2.  (2023), <ins>*Accepted, Q3 journal*</ins>, **IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
-3.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+3.  (2022), <ins>*Under submission*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
 
-4.  (2023), <ins>*Accepted, Q3 journal *</ins>, **IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+4.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+
+
