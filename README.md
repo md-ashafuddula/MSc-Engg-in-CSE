@@ -99,4 +99,4 @@ N.B. The paper has been accepted for publication in Computer Science journal: ht
 
 3.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
-4.  (2022), <ins>*Under submission*</ins>, **Transfer Learning based Automated early stage Melanoma Skin Cancer Detection and Classification**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+4.  (2023), <ins>*Accepted, Q3 journal *</ins>, **IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
