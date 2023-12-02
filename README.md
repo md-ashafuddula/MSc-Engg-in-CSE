@@ -92,13 +92,46 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 
 # Publications:
 
-1.  (2022), <ins>*Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
-N.B. The paper has been accepted for publication in Computer Science journal: http://journals.agh.edu.pl/csci
+1.  (2022), <ins>Published in *Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+[Read full text here](https://journals.agh.edu.pl/csci/article/view/4844)
+
+Please cite our paper,
+
+```
+@article{Ashafuddula2022MelanomaSC, 
+title={Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network}, 
+volume={24}, 
+url={https://journals.agh.edu.pl/csci/article/view/4844}, 
+DOI={10.7494/csci.2023.24.3.4844}, 
+number={3}, 
+journal={Computer Science}, 
+author={Ashafuddula, N. I. Md. and Islam, Rafiqul}, 
+year={2023}, 
+month={Oct.} }
+```
+
 
 2.  (2023), **IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
-3.  (2022), <ins>*Under submission*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
+3.  (2023), <ins>Published in *Applied Computational Intelligence and Soft Computing*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
+[Read full text here](https://www.hindawi.com/journals/acisc/2023/3140270/)
 
-4.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+Please cite our paper,
+
+```
+@article{Ashafuddula2023ckd, 
+title={An Intelligent Diagnostic System to Analyze Early-Stage Chronic Kidney Disease for Clinical Application}, 
+volume={2023}, 
+url={https://www.hindawi.com/journals/acisc/2023/3140270/}, 
+DOI={10.1155/2023/3140270},  
+journal={Applied Computational Intelligence and Soft Computing},
+pages={17},
+author={Md. Ashafuddula, N. I. and Islam, Bayezid and Islam, Rafiqul},
+month={Nov.},
+year={2023},
+publisher={Hindawi}}
+```
+
+5.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
 
