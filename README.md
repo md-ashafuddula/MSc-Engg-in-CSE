@@ -77,6 +77,10 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 1.  https://www.cutout.pro/
 2.  https://imageresizer.com/resize/
 
+**[Publication] Convert Image to High Resolution Vector Image**
+
+1.  https://vectormagic.com/
+
 **Draw figs**
 
 1.  https://app.diagrams.net/
