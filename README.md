@@ -61,24 +61,24 @@ project and Presentation.
 
 Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH A DEEP NEURAL NETWORK***
 
-#### Thesis book (pdf) modification src:**
+#### Thesis book (pdf) modification src:
 
 1.  https://pdfresizer.com/crop
 2.  https://smallpdf.com/
 3.  https://www.img2go.com/
 
-#### Image enhancer**
+#### Image enhancer
 
 1.  https://picwish.com/
 2.  https://www.media.io/
 3.  https://pinetools.com/sharpen-image
 
-#### Image/ photo Edit**
+#### Image/ photo Edit
 
 1.  https://www.cutout.pro/
 2.  https://imageresizer.com/resize/
 
-#### [Publication] Convert Image to High Resolution Vector Image**
+#### [Publication] Convert Image to High Resolution Vector Image
 
 1.  https://vectormagic.com/
 
@@ -166,12 +166,10 @@ eps_image = Image.open('your_eps_image.eps')
 eps_image.show()
 ```
 
-# Publications (4):
+# Publications (4)
 
 1.  (2022), <ins>Published in *Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
-[Read full text here](https://journals.agh.edu.pl/csci/article/view/4844)
-
-Please cite our paper,
+[Read full text here](https://journals.agh.edu.pl/csci/article/view/4844) Please cite our paper,
 
 ```
 @article{Ashafuddula2022MelanomaSC, 
@@ -187,9 +185,7 @@ month={Oct.} }
 ```
 
 2.  (2023), <ins>Published in *Applied Computational Intelligence and Soft Computing*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
-[Read full text here](https://www.hindawi.com/journals/acisc/2023/3140270/)
-
-Please cite our paper,
+[Read full text here](https://www.hindawi.com/journals/acisc/2023/3140270/), Please cite our paper,
 
 ```
 @article{Ashafuddula2023ckd, 
@@ -204,9 +200,9 @@ month={Nov.},
 year={2023},
 publisher={Hindawi}}
 ```
+
 3.  (2023-24), <ins>*In Submission*</ins>,**IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
    
-4.  (2022-24), <ins>*Accepted with Revision*</ins>, **ContourTL-Net: Contour-based Transfer Learning Algorithm for Early-stage Brain Tumor Detection**,
-   authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+4.  (2022-24), <ins>*Accepted with Revision*</ins> **ContourTL-Net: Contour-based Transfer Learning Algorithm for Early-stage Brain Tumor Detection**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
 
