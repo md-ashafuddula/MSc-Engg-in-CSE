@@ -4,8 +4,9 @@ My MSc duration was **(Jan, 2020 to Jan, 2023) exactly 3 years**. By the grace o
 During my MSc I have taken 7 course though could not participate in the final exam of **Deep Learning for Natural Language Processing** Course. However, I have completed all it's assignment,
 project and Presentation.
 
-# MSc course list
-## Semester-1
+## MSc Course List (18 credits)
+
+### Semester-1
 
 **1.  Advanced Algorithm Design and Analysis**
 
@@ -24,7 +25,7 @@ project and Presentation.
 1.  Natural Language processing usind Deep Learning (Sentiment Analysis)
 2.  Presentation 
 
-## Semester-2
+### Semester-2
 
 **4.  Machine Learning**
 
@@ -40,14 +41,14 @@ project and Presentation.
 2.  Decoding Spatial Memory Retrieval in Cubical space using fMRI data
 3.  Image Super resolution using SRGAN
 
-## Semester-3
+### Semester-3
 
 **6.  Cloud Computing**
 
 **Projects:**
 1. Reports on "Signnificance of cloud computing to ensure Road Safety"
 
-## Semester-4
+### Semester-4
 
 **7.  Neural Network**
 
@@ -56,45 +57,116 @@ project and Presentation.
 2.  Code using python machine learning techniques
 3.  Presentation
 
-**Thesis:** 18 credit
+### Thesis (8 credits)
 
 Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH A DEEP NEURAL NETWORK***
 
-**Thesis book (pdf) modification src:**
+#### Thesis book (pdf) modification src:**
 
 1.  https://pdfresizer.com/crop
 2.  https://smallpdf.com/
 3.  https://www.img2go.com/
 
-**Image enhancer**
+#### Image enhancer**
 
 1.  https://picwish.com/
 2.  https://www.media.io/
 3.  https://pinetools.com/sharpen-image
 
-**Image/ photo Edit**
+#### Image/ photo Edit**
 
 1.  https://www.cutout.pro/
 2.  https://imageresizer.com/resize/
 
-**[Publication] Convert Image to High Resolution Vector Image**
+#### [Publication] Convert Image to High Resolution Vector Image**
 
 1.  https://vectormagic.com/
 
-**Draw figs**
+#### Draw figs
 
 1.  https://app.diagrams.net/
 
-**Tpis and Tricks**
+#### Tpis and Tricks
 
-1.  Use ``pdf version`` of every image to get the best quality
+1.  Use ``pdf version`` or ``EPS`` i.e. vector of every image to get the best quality
 2.  Use ``Latex`` for easy and better organization
 3.  Import ``pdf`` figs
 4.  Use python ``matplot`` lib for ``pdf`` format image extraction
 5.  Notice that no overlapping happens in ``curve and legend``
 6.  Save the best ``ML models`` for future use, otherwise you will regret like me 🙄
 
-# Publications:
+#### Image modifications and working
+1.  [Inkscape](https://inkscape.org/), Open source powerful vector editor that uses SVG as its native format. It can read and write SVG flawlessly and can export EPS.
+2.  [Ghostview](https://ghostscript.com/releases/) is a free PS/EPS viewer based on Ghostscript. Ghostscript is a very complete and high-quality (PS/ EPS) parser that is capable of rasterizing most PS/EPS files.
+3.  Python code (font size big (24/30), check font family, image size (w:12, h: 8) (300dpi), Ratio same, check label, X,Y ticks)
+curves: desktop -> vector magic (pick color, enhance)-> save pdf, eps -> edit
+[Super Resolution](https://bigjpg.com/) 20 img/month, [Image format converter](https://onlineconvertfree.com/convert/pdf/)
+
+# Draw and Save confusion matrix as EPS
+
+```
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix
+
+cm = [[1102, 4],
+      [3, 713]]
+
+# Set font size and font family
+# plt.rcParams.update({'font.size': 30, 'font.family': 'Times New Roman'})
+# plt.rcParams['font.family'] = 'sans-serif'  # Set default font to sans-serif
+# plt.rcParams['font.sans-serif'] = ['Arial']  # Specify the specific sans-serif font to use
+plt.rcParams.update({'font.size': 30})
+
+# Plot confusion matrix
+plt.figure(figsize=(8, 10))
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
+            xticklabels=['0', '1'], 
+            yticklabels=['0', '1'])
+plt.xlabel('Predicted label')
+plt.ylabel('True label')
+plt.title('Confusion Matrix')
+
+plt.savefig('confusion_matrix.eps', format='eps', dpi=300, bbox_inches='tight')
+```
+
+# Update the image with large size like 300 dpi and EPS format
+
+```
+import os
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+directory = '/content/drive/MyDrive/CODE/Brain Tumor/curves/'
+
+# Iterate over files in the directory
+for filename in os.listdir(directory):
+    if filename.endswith('.png'):
+        # Load the PNG image
+        img = mpimg.imread(os.path.join(directory, filename))
+        
+        width = 10  # Width in inches
+        height = 8  # Height in inches
+        
+        fig = plt.figure(figsize=(width, height), dpi=300)
+        plt.imshow(img)
+        
+        # Add any labels, legends, or annotations to the plot if needed
+        
+        eps_filename = os.path.splitext(filename)[0] + '.eps'  # Change file extension to .eps
+        fig.savefig(os.path.join(directory, eps_filename), format='eps', bbox_inches='tight')
+        plt.close(fig)
+```
+
+# Visualize EPS image in colab
+
+```
+from PIL import Image
+eps_image = Image.open('your_eps_image.eps')
+eps_image.show()
+```
+
+# Publications (4):
 
 1.  (2022), <ins>Published in *Computer Science*</ins>, **Melanoma Skin Cancer and Nevus Mole Classification using Intensity Value Estimation with Convolutional Neural Network**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 [Read full text here](https://journals.agh.edu.pl/csci/article/view/4844)
@@ -114,10 +186,7 @@ year={2023},
 month={Oct.} }
 ```
 
-
-2.  (2023), **IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
-
-3.  (2023), <ins>Published in *Applied Computational Intelligence and Soft Computing*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
+2.  (2023), <ins>Published in *Applied Computational Intelligence and Soft Computing*</ins>, **An Intelligent Diagnostic System to analyze early-stage Chronic Kidney Disease for Clinical Application**, authors: **N. I. Md. Ashafuddula, Bayezid Islam and Rafiqul Islam**
 [Read full text here](https://www.hindawi.com/journals/acisc/2023/3140270/)
 
 Please cite our paper,
@@ -135,7 +204,9 @@ month={Nov.},
 year={2023},
 publisher={Hindawi}}
 ```
-
-5.  (2022), <ins>*Under submission*</ins>, **Contour-based early-stage Tumor Detection and Classification for Unseen Brain MRI using VGG-16 Transfer Learning model**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+3.  (2023-24), <ins>*In Submission*</ins>,**IVE-MDNet: Intensity value estimation model combined with a transfer learning approach for melanoma skin cancer diagnosis**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
+   
+4.  (2022-24), <ins>*Accepted with Revision*</ins>, **ContourTL-Net: Contour-based Transfer Learning Algorithm for Early-stage Brain Tumor Detection**,
+   authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
 
