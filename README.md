@@ -77,6 +77,7 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 
 1.  https://www.cutout.pro/
 2.  https://imageresizer.com/resize/
+3.  [DeepAi-Image generator and super resolution](https://deepai.org/machine-learning-model/torch-srgan)
 
 #### [Publication] Convert Image to High Resolution Vector Image
 
