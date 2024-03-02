@@ -252,7 +252,7 @@ Guidelines to use of tenses in different sections of a journal/ conference/ arti
 
 # Model Evaluation Metrics
 
-1. Sensitivity, Specificity, NPV, PPV, F1-score, Accuracy
-2. **10-Fold**/ 5-Fold cross-validation
-3. Stat Test
-4. MSE, RMSE, MAE
+1. ``Sensitivity (Recall), Specificity (TN), Precision, NPV , PPV, F1-score, Accuracy``
+2. ``**10-Fold**/ 5-Fold`` cross-validation
+3. ``Statistical`` Test (Z-test, T-Test, Anova test, Chi-Square Test, Pearson's chi-squared test, Fisher's Exact Test, Regression test)
+4. ``MSE, RMSE, MAE``
