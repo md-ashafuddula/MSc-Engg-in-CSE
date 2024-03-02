@@ -293,3 +293,6 @@ Guidelines to use of tenses in different sections of a journal/ conference/ arti
 5️⃣ Bayesian Statistics: An approach that incorporates prior knowledge along with new data. Essential for dynamic data analysis.
 ```
 
+# Hyperparameter Tuning 
+
+[Optimal Hyperparams](https://www.linkedin.com/pulse/mastering-machine-learning-guide-hyperparameter-tuning-pratik-thorat/)
