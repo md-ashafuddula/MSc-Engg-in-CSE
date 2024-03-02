@@ -89,15 +89,15 @@ Topic: ***SKIN CANCER DETECTION UTILIZING INTENSITY VALUE ESTIMATION MODEL WITH 
 
 #### Tpis and Tricks
 
-1.  Use ``pdf version`` or ``EPS`` i.e. vector of every image to get the best quality
+1.  Use ``pdf version`` or ``EPS`` i.e. vector of every image to get the best quality, (6,8 or 8/10) size with 300dpi
 2.  Use ``Latex`` for easy and better organization
 3.  Import ``pdf`` figs
-4.  Use python ``matplot`` lib for ``pdf`` format image extraction
+4.  Use python ``matplot`` lib for ``pdf`` best ``EPS`` format image extraction
 5.  Notice that no overlapping happens in ``curve and legend``
-6.  Save the best ``ML models`` for future use, otherwise you will regret like me 🙄
+6.  Save the best ``ML models`` for future use, otherwise, you will regret like me 🙄
 
 #### Image modifications and working
-1.  [Inkscape](https://inkscape.org/), Open source powerful vector editor that uses SVG as its native format. It can read and write SVG flawlessly and can export EPS.
+1.  [Inkscape](https://inkscape.org/), a Free and Open source powerful vector editor that uses SVG as its native format. It can read and write SVG flawlessly and can export EPS.
 2.  [Ghostview](https://ghostscript.com/releases/) is a free PS/EPS viewer based on Ghostscript. Ghostscript is a very complete and high-quality (PS/ EPS) parser that is capable of rasterizing most PS/EPS files.
 3.  Python code (font size big (24/30), check font family, image size (w:12, h: 8) (300dpi), Ratio same, check label, X,Y ticks)
 curves: desktop -> vector magic (pick color, enhance)-> save pdf, eps -> edit
@@ -249,3 +249,10 @@ Guidelines to use of tenses in different sections of a journal/ conference/ arti
 
 1. Use the ``present tense`` to ``summarize the main findings`` of the study and to ``make recommendations`` for ``future research``.
 2. Use the ``past tense`` to briefly ``recap the key points discussed in the paper``.
+
+# Model Evaluation Metrics
+
+1. Sensitivity, Specificity, NPV, PPV, F1-score, Accuracy
+2. **10-Fold**/ 5-Fold cross-validation
+3. Stat Test
+4. MSE, RMSE, MAE
