@@ -206,4 +206,48 @@ publisher={Hindawi}}
    
 4.  (2022-24), <ins>*Accepted with Revision*</ins> **ContourTL-Net: Contour-based Transfer Learning Algorithm for Early-stage Brain Tumor Detection**, authors: **N. I. Md. Ashafuddula and Rafiqul Islam**
 
+# Paper writing Guideline
+
+```
+we show, the section, this paper, present/ present perfect tense
+In the experiment (past,)
+```
+
+Guidelines to use of tenses in different sections of a journal/ conference/ article paper:
+
+# Abstract:
+
+1. Use the ``past tense`` to summarize the ``main objectives, methods, and results`` of the study.
+2. Use the ``present tense`` sparingly for ``general statements or conclusions`` that are still considered relevant.
+
+## Introduction
+
+1. Use the ``present tense`` to describe ``established facts or general truths``.
+2. Use the ``past tense`` to describe previous ``research findings or studies that have already been conducted``.
+
+## Literature Review
+
+1. Use the ``present tense`` when discussing ``current theories, concepts, or findings that are still considered relevant``.
+2. Use the ``past tense`` when ``referring to studies or research that has already been published``.
+
+## Methodology
+
+1. Use the ``past tense`` to describe the ``methods and procedures that were used in the study``.
+2. Use the ``present tense`` to ``describe materials or instruments that are still in use or relevant.``
+
+# Results
+
+1. Use the ``past tense`` to describe the ``results obtained from the study``.
+2. Use the ``present tense`` to discuss or interpret the ``findings, especially when stating general principles or conclusions``.
+
+# Discussion
+
+1. Use the ``present tense`` to discuss the ``implications of the study and its relevance to current knowledge``.
+2. Use the ``past tense`` to refer to ``specific results or findings discussed ``earlier in the paper.
+
+# Conclusion
+
+1. Use the ``present tense`` to ``summarize the main findings`` of the study and to ``make recommendations`` for ``future research``.
+2. Use the ``past tense`` to briefly ``recap the key points discussed in the paper``.
+
 
