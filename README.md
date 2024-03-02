@@ -215,7 +215,7 @@ In the experiment (past,)
 
 Guidelines to use of tenses in different sections of a journal/ conference/ article paper:
 
-** Abstract:****
+**Abstract:**
 
 1. Use the ``past tense`` to summarize the ``main objectives, methods, and results`` of the study.
 2. Use the ``present tense`` sparingly for ``general statements or conclusions`` that are still considered relevant.
