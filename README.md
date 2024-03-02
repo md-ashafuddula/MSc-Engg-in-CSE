@@ -256,3 +256,40 @@ Guidelines to use of tenses in different sections of a journal/ conference/ arti
 2. ``**10-Fold**/ 5-Fold`` cross-validation
 3. ``Statistical`` Test (Z-test, T-Test, Anova test, Chi-Square Test, Pearson's chi-squared test, Fisher's Exact Test, Regression test)
 4. ``MSE, RMSE, MAE``
+
+#  9 most common statistical tests
+
+```
+1. Z-Test: Used with sample sizes, known population variance. Used to determine if there is a difference between two means. Often used for proportions like click-through rates.
+
+2. T-Test (Student's): Smaller sample sizes, unknown population variance. Suitable for comparing means from two groups. Includes independent and paired samples t-tests.
+
+3. Welch's T-Test: Unequal variances and/or sample sizes. An adaptation of the t-test that does not assume equal variances, offers more flexibility.
+
+4. Chi-Squared Test: Categorical data, testing for independence or goodness of fit. Useful for assessing if there is a significant association between two categorical variables.
+
+5. ANOVA: Comparing means of three or more groups. Ideal for understanding if there are any significant differences between the means of multiple groups.
+
+6. Mann-Whitney U Test: Non-parametric alternative to Z-test / T-test for non-normal distributions. Comparing two independent groups, especially when the data is not normally distributed.
+
+7. Fisher’s Exact Test: Small sample sizes, especially in 2x2 contingency tables. Used for examining the significance of the association between two kinds of classifications.
+
+8. Regression Analysis: Relationship between a dependent variable and one/more independent variables. For more complex A/B tests to understand the impact of multiple variables on an outcome.
+
+9. Pearson's Chi-Squared Test: Categorical data in contingency tables. Determines if there is a significant difference in the distribution of categories between groups.
+```
+
+# Statistics
+
+```
+1️⃣ Descriptive Statistics: Understanding the basics like mean, median, mode, range, variance, and standard deviation is crucial. They help us summarize and understand data sets with ease.
+
+2️⃣ Probability Distributions: Grasping various distributions (normal, binomial, Poisson, etc.) is important. They help in understanding how probabilities are spread across different values.
+
+3️⃣ Hypothesis Testing: A critical skill for making inferences. Whether it's a t-test, chi-square, or ANOVA, these tests help us make data-driven decisions.
+
+4️⃣ Regression Analysis: From linear to logistic regression, understanding how variables relate to each other is key in predicting outcomes.
+
+5️⃣ Bayesian Statistics: An approach that incorporates prior knowledge along with new data. Essential for dynamic data analysis.
+```
+
